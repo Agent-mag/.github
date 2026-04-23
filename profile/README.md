@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://theagentmag.com/brand/agentmag-readme-banner.png" alt="Agent Mag" width="720" />
+<img src="https://raw.githubusercontent.com/Agent-mag/.github/main/profile/agentmag-readme-banner.png" alt="Agent Mag" width="720" />
 
 <br /><br />
 
