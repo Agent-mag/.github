@@ -19,6 +19,19 @@ We believe the best way to serve builders is to build for them — in the open, 
 
 ---
 
+## 📦 Our Repos
+
+| Repo | What It Is | Contribute |
+|------|-----------|------------|
+| [`skills`](https://github.com/Agent-mag/skills) | Open registry of installable agent skills — config bundles (prompts, tools, manifests) | Submit a skill via PR |
+| [`tools`](https://github.com/Agent-mag/tools) | Free, open-source tools for agent builders — CLIs, libraries, utilities | Submit a tool via PR |
+| [`roadmap`](https://github.com/Agent-mag/roadmap) | Public roadmap, feature proposals, and RFCs | Propose a feature via issue |
+| [`.github`](https://github.com/Agent-mag/.github) | Org profile, community health files, templates | — |
+
+All repos are **MIT-licensed**. The Agent Mag platform ([theagentmag.com](https://theagentmag.com)) is proprietary — these public repos are the open-source ecosystem around it.
+
+---
+
 ## 🧭 Our Vision
 
 The AI agent ecosystem is moving fast — new frameworks every week, new patterns every month, new production footguns every day. Builders shouldn't have to figure it all out alone.
@@ -171,24 +184,34 @@ Our tools and platform are built with:
 
 ## 👋 Contributing
 
-We welcome contributions from anyone building with AI agents. Each repo has its own contributing guide, but here's what we value across the board:
+We welcome contributions from anyone building with AI agents. The platform itself is proprietary, but the ecosystem is fully open.
+
+### Where to Contribute
+
+| What You Want to Do | Where |
+|---------------------|-------|
+| **Submit a new agent skill** | PR to [`Agent-mag/skills`](https://github.com/Agent-mag/skills) — add a config bundle (prompt, tools, manifest) |
+| **Submit a new tool** | PR to [`Agent-mag/tools`](https://github.com/Agent-mag/tools) — add a standalone utility, CLI, or library |
+| **Propose a feature** | Issue on [`Agent-mag/roadmap`](https://github.com/Agent-mag/roadmap) — describe what and why |
+| **Propose a large feature (RFC)** | PR to [`Agent-mag/roadmap`](https://github.com/Agent-mag/roadmap) with a proposal doc |
+| **Report a bug** | Open an issue in the relevant repo |
+| **Write an article** | Pitch at [editorial@theagentmag.com](mailto:editorial@theagentmag.com) |
+
+### How It Works
+
+1. You contribute to the **public repos** (skills, tools, roadmap)
+2. Automated checks validate your PR (schema, security, quality)
+3. We review and merge
+4. The Agent Mag platform **syncs from these repos** — your contribution goes live on [theagentmag.com](https://theagentmag.com)
+
+**You never need access to the private codebase.** The public repos are the interface.
 
 ### Principles
 
-1. **Solve a real problem** — every tool should address friction that builders actually face in production
+1. **Solve a real problem** — address friction that builders actually face in production
 2. **Keep it focused** — one tool, one job, done well. No Swiss Army knives.
-3. **Document like a builder** — install to working in under 5 minutes. If it takes longer, the docs need work.
-4. **Test what matters** — not 100% coverage for the sake of it, but confidence that the tool works as advertised
-
-### Ways to Contribute
-
-| Contribution | How |
-|-------------|-----|
-| **Report a bug** | Open an issue in the relevant repo |
-| **Suggest a tool** | [Start a discussion](https://github.com/orgs/Agent-mag/discussions) with the problem it solves |
-| **Submit a skill** | PR to the skills registry with your agent skill config |
-| **Improve docs** | PRs welcome — clarity is a feature |
-| **Write an article** | Pitch us at [editorial@theagentmag.com](mailto:editorial@theagentmag.com) |
+3. **Document like a builder** — install to working in under 5 minutes
+4. **Test what matters** — confidence that the tool works as advertised
 
 ---
 
