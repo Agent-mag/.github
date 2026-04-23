@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://theagentmag.com/brand/banner-github-1280x640.png" alt="Agent Mag — The Magazine for AI Agent Builders" width="640" />
+<img src="https://theagentmag.com/brand/agentmag-banner-github.png" alt="Agent Mag" width="640" />
 
 <br />
 
-Deep-dive articles, 136+ free tools, an open skills registry, curated jobs, events, and courses for engineers building autonomous AI systems.
+Free, open-source tools and agent skills for the AI builder community.
 
 [Website](https://theagentmag.com) &nbsp;&middot;&nbsp; [Twitter](https://x.com/theagentmag) &nbsp;&middot;&nbsp; [LinkedIn](https://linkedin.com/company/theagentmag) &nbsp;&middot;&nbsp; [Newsletter](https://theagentmag.com/#newsletter)
 
@@ -14,13 +14,11 @@ Deep-dive articles, 136+ free tools, an open skills registry, curated jobs, even
 
 ## What We Build Here
 
-This GitHub org is where Agent Mag publishes **free, open-source tools and agent skills** for the builder community. Every repo here solves a real problem that AI agent engineers face in production.
-
-**Our mission:** give every agent builder the tools they need to ship faster, test better, and operate with confidence.
+This GitHub org is where Agent Mag publishes **free, open-source tools and agent skills**. Every repo here solves a real problem that AI agent engineers face in production.
 
 ## Open Skills Registry
 
-Agent Mag maintains an open registry of installable agent skills — config bundles (prompts, tools, manifests) you can add to any agent framework with a single command:
+An open registry of installable agent skills — config bundles (prompts, tools, manifests) you can add to any agent framework with a single command:
 
 ```bash
 npx agentmag add <skill-name>
@@ -45,24 +43,18 @@ Star and watch repos to get notified as we publish.
 
 ## Contributing
 
-We welcome contributions from the agent builder community. Each repo has its own contributing guide, but the general principles are:
+We welcome contributions. Each repo has its own contributing guide, but the general principles are:
 
-1. **Solve a real problem** — every tool should address a friction point agent builders actually face
+1. **Solve a real problem** — address a friction point builders actually face
 2. **Keep it focused** — one tool, one job, done well
-3. **Document clearly** — a builder should be able to go from install to working in under 5 minutes
+3. **Document clearly** — install to working in under 5 minutes
 
-Have an idea for a tool? [Open a discussion](https://github.com/orgs/Agent-mag/discussions) or reach out at [hello@theagentmag.com](mailto:hello@theagentmag.com).
-
-## Stay in the Loop
-
-- **Weekly newsletter** — curated AI agent news, tool releases, and builder interviews. [Subscribe free](https://theagentmag.com/#newsletter).
-- **Articles** — technical deep-dives on agent frameworks, production patterns, and model benchmarks at [theagentmag.com](https://theagentmag.com).
-- **Jobs** — curated AI agent engineering roles at [theagentmag.com/jobs](https://theagentmag.com/jobs).
+Have an idea? [Open a discussion](https://github.com/orgs/Agent-mag/discussions) or reach out at [hello@theagentmag.com](mailto:hello@theagentmag.com).
 
 ---
 
 <div align="center">
 
-**Est. 2026** &nbsp;&middot;&nbsp; Built for the agent builder community
+**Est. 2026** &nbsp;&middot;&nbsp; [theagentmag.com](https://theagentmag.com)
 
 </div>
