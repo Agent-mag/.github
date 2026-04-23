@@ -1,8 +1,8 @@
 <div align="center">
 
-# Agent Mag
+<img src="https://theagentmag.com/brand/banner-github-1280x640.png" alt="Agent Mag — The Magazine for AI Agent Builders" width="640" />
 
-### The Magazine for AI Agent Builders
+<br />
 
 Deep-dive articles, 136+ free tools, an open skills registry, curated jobs, events, and courses for engineers building autonomous AI systems.
 
