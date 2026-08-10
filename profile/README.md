@@ -14,6 +14,18 @@ We believe the best way to serve builders is to build for them in the open, with
 
 ---
 
+## Founder
+
+### Harshitha Chittapragada
+
+**Founder · AI Product Engineer**
+
+Harshitha leads Agent Mag across product strategy, agent experience, platform engineering, integrations, and operations. She is building the product and its open ecosystem as practical infrastructure for teams working with AI agents—from agentic chat and installable skills to deployment workflows and builder tools.
+
+[Portfolio](https://harshitha.dev) · [LinkedIn](https://www.linkedin.com/in/chittapragadaharshitha/)
+
+---
+
 ## Quick Start
 
 ```bash
@@ -129,6 +141,6 @@ Have a tool, skill, or model workflow you want us to support? [Open a discussion
 
 ---
 
-**Est. 2026** | San Francisco | [theagentmag.com](https://theagentmag.com)
+**Est. 2026** | [agentmag.dev](https://agentmag.dev)
 
 Built for builders, by builders.
